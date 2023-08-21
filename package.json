@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-starter-js",
+  "version": "0.0.1",
+  "description": "Only Tailwindcss and Node.",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/tailwind.css -o ./dist/tailwind.css --watch"
+  },
+  "keywords": [],
+  "author": "kwuasimoto",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
