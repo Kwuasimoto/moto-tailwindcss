@@ -8,7 +8,8 @@
 
 ## 1. Clone
 
-Clone cli branch into new node project: (period on end is important)
+Clone cli branch into empty project: </br>
+(period on end is important, you can specify dir name by replacing period)
 
 ```
 git clone -b cli --single-branch https://github.com/Kwuasimoto/moto-tailwindcss.git .
